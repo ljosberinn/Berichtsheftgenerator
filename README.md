@@ -4,4 +4,5 @@
 ## Bedingungen
 
 Javascript aktiviert/erlaubt
+
 PHP 5+ fähigen Server
